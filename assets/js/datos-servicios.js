@@ -1,6 +1,6 @@
 window.onload = callService;
 var datos;
-var urlApp = " https://jos18211.github.io/Proyecto-TallerV2/servicios.json";
+var urlApp = " https://jos18211.github.io/serviciosjson/servicios.json";
 
 function callService() {
     $.ajax({
