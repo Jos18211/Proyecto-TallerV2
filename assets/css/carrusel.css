@@ -1,0 +1,11 @@
+#trabajos {
+    height: 17vw;
+    width: 100%;
+
+}
+
+#trabajos .img {
+    width: 100%;
+    border-radius: 5px;
+    height: 45vw;
+}
