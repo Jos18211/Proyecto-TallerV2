@@ -1,0 +1,40 @@
+{
+    "servicios": [
+        {
+            "clasificacion": "individuales",
+            "nombre": "Pieza Individual",
+            "precio": "60.000",
+            "descripcion": "Pintura de pieza con previa valoracion , incluye materiales"
+        },
+        {
+            "clasificacion": "individuales",
+            "nombre": "Pintura de aros",
+            "precio": "80.000",
+            "descripcion": "Pintura de 4 aros , en un solo color , sujeto a valoracion previa, incluye materiales "
+        },
+        {
+            "clasificacion": "individuales",
+            "nombre": "Pintura de calipers",
+            "precio": "50.000",
+            "descripcion": "Pintura de 4 calipers , en un solo color , sujeto a valoracion previa ,incluye materiales "
+        },
+        {
+            "clasificacion": "combos",
+            "nombre": "Pulida completa",
+            "precio": "60.000",
+            "descripcion": "Servicio de pulida completa , sujeto a valoracion previa ,incluye materiales "
+        },
+        {
+            "clasificacion": "combos",
+            "nombre": "Pintura Completa",
+            "precio": "320.000",
+            "descripcion": "Servicio de pintura completa , sujeto a valoracion previa ,incluye materiales"
+        },
+        {
+            "clasificacion": "combos",
+            "nombre": "Soldadura y sustitucion",
+            "precio": "50.000",
+            "descripcion": "Soldadura y reconstruccion de piezas con daño con oxido"
+        }
+    ]
+}
