@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Proyecto Programado Diseno de aplicaciones Web
 
-Template Name: Knight
-Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+---autor:Joseph Quesada Salas
+
+
